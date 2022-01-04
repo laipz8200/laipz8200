@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/laipz8200">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laipz8200&show_icons=true&hide=contribs&bg_color=F7D6E0,EFF7F6,B2F7EF&theme=" />
+  <img align="center" alt="GitHub Stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=laipz8200&show_icons=true&hide=contribs&bg_color=F7D6E0,EFF7F6,B2F7EF&theme=" />
 </a>
 <a href="https://github.com/laipz8200">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laipz8200&layout=compact&bg_color=F1FAFB,A0E4F1,7EA6F4&theme=" />
+  <img align="center" alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laipz8200&layout=compact&bg_color=F1FAFB,A0E4F1,7EA6F4&theme=" />
 </a>
