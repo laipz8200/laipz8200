@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **laipz8200/laipz8200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/laipz8200">
-  <img align="center" alt="GitHub Stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=laipz8200&show_icons=true&hide=contribs&theme=dracula" />
-</a>
-<a href="https://github.com/laipz8200">
-  <img align="center" alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laipz8200&layout=compact&theme=dracula" />
-</a>
+- 🤔 Python, Golang, Rust
+- 🔭 I’m currently working on: [DjangoCodeGenerator](https://github.com/laipz8200/DjangoCodeGenerator)
+- 🌱 I’m currently learning: SICP
+- 📫 How to reach me: ↙ you can see my email, right?
+
+<hr />
+
+<div id="commmits">
+  <a href="https://github.com/laipz8200">
+    <img align="center" alt="GitHub Stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=laipz8200&show_icons=true&count_private=true&theme=swift&include_all_commits=true" />
+  </a>
+</div>
