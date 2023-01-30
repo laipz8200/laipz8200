@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 - 🤔 Python, Golang, Rust
-- 🔭 I’m currently working on: [DjangoCodeGenerator](https://github.com/laipz8200/DjangoCodeGenerator)
 - 🌱 I’m currently learning: SICP
 - 📫 How to reach me: ↙ you can see my email, right?
 
