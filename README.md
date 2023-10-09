@@ -15,12 +15,4 @@ Here are some ideas to get you started:
 
 - 🤔 Python, Golang, Rust
 - 🌱 I’m currently learning: SICP
-- 📫 How to reach me: ↙ you can see my email, right?
-
-<hr />
-
-<div id="commmits">
-  <a href="https://github.com/laipz8200">
-    <img align="center" alt="GitHub Stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=laipz8200&show_icons=true&count_private=true&theme=swift&include_all_commits=true" />
-  </a>
-</div>
+- 📫 How to reach me: Email: laipz8200@outlook.com
