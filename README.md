@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 - 🤔 Python, Golang, Rust
 - 🌱 I’m currently learning: SICP
-- 📫 How to reach me: Email: laipz8200@outlook.com
+- 📫 How to reach me? laipz8200@outlook.com
