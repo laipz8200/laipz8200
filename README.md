@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤔 Python, Golang, Rust
-- 🌱 I’m currently learning: SICP
-- 📫 How to reach me? laipz8200@outlook.com
+- 🔭 I’m currently working on [langgenius/dify](https://github.com/langgenius/dify)
+- 🌱 I’m currently learning: SICP, LLMs
+- 📫 How to reach me? send me an email.
+
+---
+
+[![-LAN-'s GitHub stats](https://github-readme-stats.vercel.app/api?username=laipz8200&hide=stars&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
