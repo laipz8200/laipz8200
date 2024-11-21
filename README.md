@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [langgenius/dify](https://github.com/langgenius/dify)
-- 🌱 I’m currently learning: SICP, LLMs
-- 📫 How to reach me? send me an email.
+- 🌱 I’m currently learning: SICP, LLMs...
+- 🔭 I’m currently working on [langgenius/dify](https://github.com/langgenius/dify).
+- 📫 How to reach me? Email.
 
 ---
 
