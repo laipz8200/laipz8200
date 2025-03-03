@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![-LAN-'s GitHub stats](https://github-readme-stats.vercel.app/api?username=laipz8200&hide=stars&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![-LAN-'s GitHub stats](https://github-readme-stats.vercel.app/api?username=laipz8200&hide=stars&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+![Repos I contributed to](https://github-contrib-stats.vercel.app/laipz8200/contributed.svg)
